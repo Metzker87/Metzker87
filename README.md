@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Juliano Metzker. Welcome to my repository.
 
-- 🌱 I’m currently learning Python, JavaScript and HTML5/CSS3
+- I’m currently learning Python, JavaScript and HTML5/CSS3
 
 <div align="center">
   <a href="https://github.com/metzker87">
